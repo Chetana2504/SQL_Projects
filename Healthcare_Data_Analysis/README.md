@@ -1,6 +1,6 @@
-📘 Hospital Management SQL Project
+📘 Healthcare Data Analysis - SQL Project
 
-This project is a SQL-based Hospital Management Database that manages patients, hospitals, diseases, visit history, and billing information.
+This project is a SQL-based Healthcare Data Analysis that manages patients, hospitals, diseases, visit history, and billing information.
 It includes 50+ SQL queries using JOINs, GROUP BY, aggregate functions, views, date functions, and window functions.
 
 📌 Project Objective
